@@ -7,35 +7,22 @@ set -u
 # Don't hide errors in pipes
 set -o pipefail
 
-# Needed for TERM-less envs so the script can use tput
-export TERM=xterm
-
-# Colours
-clr_clear=$(tput sgr0)
-clr_white=$(tput setaf 7)
-clr_red=$(tput setaf 1)
-clr_yellow=$(tput setaf 3)
-clr_blue=$(tput setaf 4)
-clr_green=$(tput setaf 2)
-clr_magenta=$(tput setaf 5)
-clr_cyan=$(tput setaf 6)
-
 debug_mode=0
 _debug() {
     # _debug "${FUNCNAME[0]}" ""
     if (( "${debug_mode}" == 0)); then
-        printf "${clr_blue}[DEBUG]\t ${clr_yellow}$(date +%T) ${clr_cyan}%s ${clr_magenta}- ${clr_white}%s${clr_clear}\n" "${1}" "${2}"
+        printf "[DEBUG]\t $(date +%T) %s - %s\n" "${1}" "${2}"
     fi
 }
 
 _info() {
     # _info "${FUNCNAME[0]}" ""
-    printf "${clr_green}[INFO]\t ${clr_yellow}$(date +%T) ${clr_cyan}%s ${clr_magenta}- ${clr_white}%s${clr_clear}\n" "${1}" "${2}"
+    printf "[INFO]\t $(date +%T) %s - %s\n" "${1}" "${2}"
 }
 
 _error() {
     # _info "${FUNCNAME[0]}" ""
-    printf "${clr_red}[ERROR]\t ${clr_yellow}$(date +%T) ${clr_cyan}%s ${clr_magenta}- ${clr_white}%s${clr_clear}\n" "${1}" "${2}"
+    printf "[ERROR]\t $(date +%T) %s - %s\n" "${1}" "${2}"
 }
 
 main() {
