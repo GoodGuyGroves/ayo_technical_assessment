@@ -7,6 +7,9 @@ set -u
 # Don't hide errors in pipes
 set -o pipefail
 
+# Needed for TERM-less envs so the script can use tput
+export TERM=xterm
+
 # Colours
 clr_clear=$(tput sgr0)
 clr_white=$(tput setaf 7)
