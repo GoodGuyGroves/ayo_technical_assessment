@@ -3,10 +3,12 @@ from fastapi import FastAPI
 
 app = FastAPI()
 
+
 @app.get("/")
 async def root():
     """Root HTTP address"""
-    return { "message": "Hello, world!" }
+    return {"message": "Hello, world!"}
+
 
 # pylint: disable=invalid-name
 @app.get("/items/{item_id}")
