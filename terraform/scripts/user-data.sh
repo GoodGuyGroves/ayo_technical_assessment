@@ -5,10 +5,13 @@ sudo yum update -y
 # Java needed for Jenkins
 sudo yum install -y java-1.8.0-openjdk-devel
 
+# Git needed for Jenkins
+sudo yum install -y git
+
 # Jenkins
 sudo wget -O /etc/yum.repos.d/jenkins.repo https://pkg.jenkins.io/redhat/jenkins.repo
 sudo rpm --import https://pkg.jenkins.io/redhat/jenkins.io.key
-sudo yum install jenkins -y
+sudo yum install -y jenkins
 
 sudo systemctl start jenkins
 sudo systemctl enable jenkins

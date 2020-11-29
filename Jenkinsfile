@@ -7,8 +7,10 @@ pipeline {
         stage('master'){
             steps {
                 checkout scm
-                bash "build_container.sh"
-                bash "control_webapp.sh -a restart"
+                sh 'pwd'
+                sh 'ls -lrR'
+                sh "build_container.sh"
+                sh "control_webapp.sh -a restart"
             }
         }
     }
