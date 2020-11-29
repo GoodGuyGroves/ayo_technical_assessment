@@ -15,4 +15,3 @@ async def root():
 def read_item(item_id: int, q: str = None):
     """Just returns the item_id and query parameter q"""
     return {"item_id": item_id, "q": q}
-
