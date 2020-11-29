@@ -1,3 +1,10 @@
+# Russ changes
+*.tfvars
+*.out
+.terraform/
+.vscode/
+*tfstate*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
