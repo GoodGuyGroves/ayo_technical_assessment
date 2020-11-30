@@ -23,7 +23,7 @@ ip_p -> ip
  note top of AWS
   PlantUML rocks for quick diagrams 
   (diagrams as code vibe)
-  ((and Github natively supports))
+
 
 end note
 
