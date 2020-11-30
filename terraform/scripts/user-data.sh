@@ -1,7 +1,9 @@
 #!/usr/bin/env bash
 
+# THis could be https://cloudinit.readthedocs.io/en/latest/topics/examples.html#adding-a-yum-repository
 sudo yum update -y
 
+# The installs could be https://cloudinit.readthedocs.io/en/latest/topics/examples.html#install-arbitrary-packages
 # Java needed for Jenkins
 sudo yum install -y java-1.8.0-openjdk-devel
 
