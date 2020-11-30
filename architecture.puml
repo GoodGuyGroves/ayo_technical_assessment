@@ -1,0 +1,30 @@
+@startuml
+
+title "Cartoon" version
+
+cloud "AWS" {
+    label "public ip" as ip_p
+    node "EC2 Instance" {
+        interface "80" as ip
+        folder "docker-compose projects" {
+            rectangle "Nginx" 
+            interface "8080" as ip_wa
+            rectangle "Webapp"
+            ip_wa - Webapp
+            Nginx --> ip_wa
+        }
+
+    }
+    ip - Nginx
+}
+
+ip_p -> ip
+
+ note top of AWS
+  PlantUML rocks for quick diagrams 
+  (diagrams as code vibe)
+  ((and Github natively supports))
+
+end note
+
+@enduml
