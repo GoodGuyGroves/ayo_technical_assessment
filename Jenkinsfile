@@ -9,7 +9,7 @@ pipeline {
         stage('master'){
             steps {
                 checkout scm
-                sh "./build_container.sh"
+//              sh "./build_container.sh"
                 sh "./control_webapp.sh -a restart"
             }
         }

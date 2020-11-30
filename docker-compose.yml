@@ -13,6 +13,7 @@ services:
 
   webapp:
     image: "ayo_ta"
+    build: .
     restart: "on-failure"
     environment:
       PORT: "8080"
