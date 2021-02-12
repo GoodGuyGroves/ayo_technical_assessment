@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="486px" preserveAspectRatio="none" style="width:607px;height:486px;" version="1.1" viewBox="0 0 607 486" width="607px" zoomAndPan="magnify"><defs><filter height="300%" id="faip4idk2wsj3" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacingAndGlyphs" textLength="158" x="218.4957" y="16.708">"Cartoon" version</text><!--MD5=[88656e78e5bedad418341b6ececa151e]
+cluster AWS--><path d="M135.8945,130.6093 C146.1582,114.6008 164.3637,113.5658 171.95,133.3094 C178.7193,118.1309 191.917,118.7348 201.1107,130.7053 C212.7829,118.3199 222.3023,120.5285 230.1602,134.8537 C239.0761,114.7379 250.6054,116.2965 265.0616,128.9535 C273.7125,115.0527 283.9866,118.0307 291.17,130.4113 C301.3547,112.53 311.862,114.5779 323.7397,128.6877 C334.6067,113.583 349.6142,113.4811 358.1932,131.097 C368.6231,114.6211 377.9332,114.9652 388.8648,130.618 C400.3547,114.1313 410.8109,116.4987 420.1488,132.6789 C429.5179,118.3751 441.7735,116.57 450.9209,132.9015 C458.5972,118.8282 469.6847,118.8158 477.3032,132.9556 C485.9473,117.3507 500.5032,114.7749 511.4069,130.4958 C523.046,118.6747 533.2657,117.7195 541.7911,133.8772 C553.5964,120.0698 568.2013,121.6604 577.5,136.9531 C579.6838,134.5203 581.7736,134.7293 583.2578,137.6988 C597.8816,147.5673 600.2247,164.9419 581.3872,173.0393 C596.3228,181.8515 596.1058,194.1018 580.9745,202.4926 C595.8344,210.5082 595.4266,220.7325 584.121,231.5787 C598.3002,240.966 598.8028,257.0714 583.489,265.9159 C596.7103,273.9794 596.9994,282.7318 584.1227,291.4432 C600.9913,304.1734 600.2166,317.5233 580.0374,325.8553 C593.5703,334.4534 593.0673,347.506 579.3953,355.5151 C591.9886,363.6684 596.753,372.6131 582.4945,383.7173 C599.0468,392.7878 596.1182,407.8413 580.6259,414.9976 C598.0523,430.916 592.9629,446.9645 570.5,451.9531 C572.6936,450.1145 575.3601,450.6904 576.1266,453.6326 C566.4903,472.7045 553.6949,475.7463 539.6565,457.9922 C528.9766,468.573 519.7216,468.6039 511.6313,454.9923 C502.6076,469.1325 491.8002,473.6381 480.2772,457.588 C470.5052,472.0557 458.0007,475.5591 447.1897,458.6849 C438.5254,472.8343 426.7049,470.0964 419.8967,456.8367 C413.9029,475.1229 399.1358,475.1104 387.5761,462.6965 C378.1593,475.1262 366.8698,474.1963 357.9104,462.1425 C348.6642,478.2572 335.1137,479.2477 326.1042,461.9174 C313.75,473.2123 303.1617,473.2275 294.3818,457.6915 C283.668,472.3053 273.3923,473.8067 262.1503,458.2559 C253.0999,472.8365 243.16,474.6012 233.1295,459.2048 C221.9344,475.0056 208.0505,472.7977 200.6387,455.4919 C193.0586,471.0025 178.2052,470.8124 168.6499,457.6994 C149.7777,471.1139 136.5085,465.7584 128.5,444.9531 C131.517,445.7923 131.7454,448.4273 129.8989,450.4943 C112.4039,443.5901 113.1735,428.0801 127.7326,418.9729 C110.3002,408.6897 110.5649,396.2456 127.0389,385.2645 C113.0919,376.7955 110.7337,366.756 125.3178,356.5753 C109.3785,350.4967 105.2503,335.3464 119.923,324.1713 C105.4459,316.3811 102.1623,302.898 118.0558,293.2726 C104.5745,282.9194 105.4212,270.065 121.1166,262.6257 C110.0825,250.8997 111.2076,239.1218 126.2526,231.7313 C111.4944,222.4311 114.108,211.4813 127.3258,203.2348 C112.0094,192.0231 115.9666,175.4615 131.693,168.1094 C112.3656,156.2921 118.4699,138.1428 135.5,129.9531 C135.9154,130.0001 136.0321,130.2299 135.8945,130.6093 " fill="#FFFFFF" filter="url(#faip4idk2wsj3)" style="stroke: #000000; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="36" x="335" y="147.9482">AWS</text><!--MD5=[c6df80590e9e9a5aac3345a84d472d22]
+cluster EC2 Instance--><polygon fill="#FFFFFF" filter="url(#faip4idk2wsj3)" points="260.5,182.9531,270.5,172.9531,553.5,172.9531,553.5,417.9531,543.5,427.9531,260.5,427.9531,260.5,182.9531" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="543.5" x2="553.5" y1="182.9531" y2="172.9531"/><line style="stroke: #000000; stroke-width: 1.5;" x1="260.5" x2="543.5" y1="182.9531" y2="182.9531"/><line style="stroke: #000000; stroke-width: 1.5;" x1="543.5" x2="543.5" y1="182.9531" y2="427.9531"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="102" x="352" y="198.9482">EC2 Instance</text><!--MD5=[8d751184bcd868e161e9bb2a986d789e]
+cluster docker-compose projects--><polygon fill="#FFFFFF" filter="url(#faip4idk2wsj3)" points="310.5,220.9531,519.5,220.9531,526.5,243.25,529.5,243.25,529.5,403.9531,310.5,403.9531,310.5,220.9531" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="310.5" x2="526.5" y1="243.25" y2="243.25"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="203" x="314.5" y="235.9482">docker-compose projects</text><!--MD5=[9d1b0cb9721aafdcde4073a399b8f22c]
+entity ip_p--><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="57" x="174" y="278.9482">public ip</text><!--MD5=[9abcc6c39c1199036995f53243461172]
+entity ip--><ellipse cx="285.5" cy="273.9531" fill="#FEFECE" filter="url(#faip4idk2wsj3)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="18" x="276.5" y="303.9482">80</text><!--MD5=[b7709df717efd9e6df0e9843c5de81db]
+entity Nginx--><rect fill="#FEFECE" filter="url(#faip4idk2wsj3)" height="36.2969" style="stroke: #000000; stroke-width: 1.5;" width="58" x="329.5" y="255.9531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="38" x="339.5" y="278.9482">Nginx</text><!--MD5=[70bae6a2f26bdd5cd8dd11546be8b26c]
+entity ip_wa--><ellipse cx="338.5" cy="369.9531" fill="#FEFECE" filter="url(#faip4idk2wsj3)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="36" x="320.5" y="399.9482">8080</text><!--MD5=[748fe8734f81c225b68b3323baccca5d]
+entity Webapp--><rect fill="#FEFECE" filter="url(#faip4idk2wsj3)" height="36.2969" style="stroke: #000000; stroke-width: 1.5;" width="77" x="383" y="351.9531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="57" x="393" y="374.9482">Webapp</text><path d="M6,26.9531 L6,97.4844 L251,97.4844 L251,36.9531 L241,26.9531 L6,26.9531 " fill="#FBFB77" filter="url(#faip4idk2wsj3)" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M241,26.9531 L241,36.9531 L251,36.9531 L241,26.9531 " fill="#FBFB77" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="220" x="12" y="44.02">PlantUML rocks for quick diagrams</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="154" x="12" y="59.1528">(diagrams as code vibe)</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="0" x="16" y="74.2856"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="0" x="16" y="89.4185"/><!--MD5=[e6d57ac27bab3ce7d3d42a5163e9a105]
+link ip_wa to Webapp--><path d="M347.58,369.9531 C359.32,369.9531 371.06,369.9531 382.81,369.9531 " fill="none" id="ip_wa-Webapp" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[c4f64088366c3e83572e5672e4b5c36d]
+link Nginx to ip_wa--><path d="M354.83,292.1931 C350.94,310.4831 344.88,338.9731 341.34,355.6131 " fill="none" id="Nginx-to-ip_wa" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="340.24,360.7731,346.0306,352.8064,341.2837,355.8833,338.2069,351.1364,340.24,360.7731" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[3b6e441a2669396eea4b909564036496]
+link ip to Nginx--><path d="M294.62,273.9531 C306.1,273.9531 317.58,273.9531 329.06,273.9531 " fill="none" id="ip-Nginx" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[9a00a7b423dc5b9e260e4868fb4177c9]
+link ip_p to ip--><path d="M241.08,273.9531 C251.13,273.9531 261.18,273.9531 271.22,273.9531 " fill="none" id="ip_p-to-ip" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="276.48,273.9531,267.48,269.9531,271.48,273.9531,267.48,277.9531,276.48,273.9531" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[ac2cf67ed838f270b2cf9cf5ea832de8]
+link GMN15 to AWS--><path d="M128.5,98.0431 C128.5,101.7044 128.5,105.5772 128.5,109.6217 C128.5,111.6439 128.5,113.7091 128.5,115.8122 C128.5,116.8637 128.5,117.9247 128.5,118.9946 C128.5,119.5296 128.5,120.0667 128.5,120.606 C128.5,120.8757 128.5,121.1459 128.5,121.4166 " fill="none" id="GMN15-AWS" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><!--MD5=[09af40b410f066a764fb00af265d1756]
+@startuml
+
+title "Cartoon" version
+
+cloud "AWS" {
+    label "public ip" as ip_p
+    node "EC2 Instance" {
+        interface "80" as ip
+        folder "docker-compose projects" {
+            rectangle "Nginx" 
+            interface "8080" as ip_wa
+            rectangle "Webapp"
+            ip_wa - Webapp
+            Nginx - -> ip_wa
+        }
+
+    }
+    ip - Nginx
+}
+
+ip_p -> ip
+
+ note top of AWS
+  PlantUML rocks for quick diagrams 
+  (diagrams as code vibe)
+
+
+end note
+
+@enduml
+
+PlantUML version 1.2020.18(Wed Sep 30 21:40:44 SAST 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: ZA
+--></g></svg>
